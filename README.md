@@ -51,6 +51,8 @@ Currently I am learning Flutter for Android/ios App Development 😄 and focusin
 2. ```Constructor```
 3. ```Ecommerce website```
 4. ```University Landing Page```
+5. ```Readme Editor```
+6. ```Quick Notes```
 
 
 ## THAT'S ALL ABOUT ME 🙂
