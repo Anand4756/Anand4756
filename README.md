@@ -56,8 +56,8 @@ Currently I am learning Flutter for Android/ios App Development 😄 and focusin
 
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anand4756&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=anand4756&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anand4756&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=anand4756&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anand4756&theme=dark&hide_border=false)<br/>
 
 
