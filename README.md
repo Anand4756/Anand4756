@@ -1,10 +1,9 @@
 
 
-# Hi,<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Anand Kaushik (@Anand4756)
+# Hi,<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Anand(@Anand4756)
 
-I am a full Stack Developer (MERN stack) having good practical knowledge in Nodejs and Mongodb.
-
-Currently I am learning Flutter for Android/ios App Development 😄 and focusing more on DS Algo.
+A  skilled  software developer 😄 with expertise in Node.js, React.js, Next.js, TypeScript, Flutter. I am Passionate about software development and delivering cutting-edge solutions, Proficient in building robust backends, captivating UIs, and cross-platform mobile apps.
+ 
 
 ### ```Email id```: anand.k4756@gmail.com
 
@@ -12,7 +11,7 @@ Currently I am learning Flutter for Android/ios App Development 😄 and focusin
 
 
 
- [![Mongodb Badge](https://img.shields.io/badge/-Mongodb-3C873A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) [![flutter Badge](https://img.shields.io/badge/-flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)](#) [![java Badge](https://img.shields.io/badge/-Java-ff0000?style=for-the-badge&labelColor=black&logo=Java&logoColor=ff0000)](#) [![electron Badge](https://img.shields.io/badge/-ELectron.Js-2fff?style=for-the-badge&labelColor=black&logo=Electron&logoColor)](#)
+ [![Mongodb Badge](https://img.shields.io/badge/-Mongodb-3C873A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#)[![Next.js Badge](https://img.shields.io/badge/-Next.Js-white?style=for-the-badge&labelColor=black&logo=next.js&logoColor=#fff)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) [![flutter Badge](https://img.shields.io/badge/-flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)](#) [![java Badge](https://img.shields.io/badge/-Java-ff0000?style=for-the-badge&labelColor=black&logo=Java&logoColor=ff0000)](#) [![electron Badge](https://img.shields.io/badge/-ELectron.Js-2fff?style=for-the-badge&labelColor=black&logo=Electron&logoColor)](#)
  
 
 ### SKILLS
@@ -50,9 +49,9 @@ Currently I am learning Flutter for Android/ios App Development 😄 and focusin
 1. ```Take Notes```
 2. ```Constructor```
 3. ```Ecommerce website```
-4. ```University Landing Page```
-5. ```Readme Editor```
-6. ```Quick Notes```
+4. ```Green Theme(VS Code Extension)```
+5. ```RealTime Code Editor```
+   ###### and many more....
 
 
 # GitHub Stats:
