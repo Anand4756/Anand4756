@@ -56,8 +56,13 @@ A  skilled  software developer 😄 with expertise in Node.js, React.js, Next.js
 
 # GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anand4756&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=anand4756&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=anand4756&theme=dark&hide_border=false)<br/>
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anand4756&theme=dark&hide_border=false)
+<br/>
+[![Anand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anand4756&bg_color=000000&color=9e4c98&line=ffffff&point=9b6f6f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
 
 
 
