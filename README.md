@@ -2,7 +2,7 @@
 
 # Hi,<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Anand(@Anand4756)
 
-A  skilled  software developer 😄 with expertise in Node.js, React.js, Next.js, TypeScript, Flutter. I am Passionate about software development and delivering cutting-edge solutions, Proficient in building robust backends, captivating UIs, and cross-platform mobile apps.
+A  skilled  software developer 😄 with expertise in Node.js, React.js, Next.js, TypeScript, Flutter and Go lang. I am Passionate about software development and delivering cutting-edge solutions, Proficient in building robust backends, captivating UIs, and cross-platform mobile apps.
  
 
 ### ```Email id```: anand.k4756@gmail.com
